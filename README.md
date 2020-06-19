@@ -1,0 +1,1 @@
+Anontownで使うredisのDockerイメージ
